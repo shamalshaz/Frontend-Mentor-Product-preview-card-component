@@ -74,3 +74,6 @@ p{
 .links{
     text-decoration: none;
 }
+.attribution{
+    clear: right;
+}
